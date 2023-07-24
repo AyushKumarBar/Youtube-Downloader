@@ -1,7 +1,11 @@
 # Youtube-Downloader
-<img src='https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png' style="width:200px"/>
+
+<img width="350" alt="image" src="https://github.com/AyushKumarBar/Youtube-Downloader/assets/95698835/f1c46b85-e395-4764-90e8-f70a1e4cf3e4">
 
 ### <a href="https://github.com/AyushKumarBar/Youtube-Downloader/releases/download/PlugAndPlay/YouTubeDownloader.exe">Download</a>
+
+
+
 
 
 ## Introduction:
