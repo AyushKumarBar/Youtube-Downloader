@@ -1,5 +1,10 @@
 # Youtube-Downloader
-##Introduction:
+<img src='https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png' style="width:200px"/>
+
+### <a href="https://github.com/AyushKumarBar/Youtube-Downloader/releases/download/PlugAndPlay/YouTubeDownloader.exe">Download</a>
+
+
+## Introduction:
 The YouTube Downloader is a Python-based application designed to facilitate the easy and efficient downloading of both individual YouTube videos and entire playlists. 
 Leveraging the power of Python and relevant libraries, this project aims to provide users with a user-friendly and feature-rich tool to download their favorite content from YouTube and enjoy it offline.
 
