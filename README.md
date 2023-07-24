@@ -2,7 +2,7 @@
 
 <img width="350" alt="image" src="https://github.com/AyushKumarBar/Youtube-Downloader/assets/95698835/f1c46b85-e395-4764-90e8-f70a1e4cf3e4">
 
-### <a href="https://github.com/AyushKumarBar/Youtube-Downloader/releases/download/PlugAndPlay/YouTubeDownloader.exe">Download</a>
+### <a href="https://github.com/AyushKumarBar/Youtube-Downloader/releases/download/PlugAndPlay/YouTubeDownloader.exe">Download YouTube Downloader</a>
 
 
 
